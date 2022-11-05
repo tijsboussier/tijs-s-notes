@@ -14,7 +14,7 @@ I've mostly been a homebody in the past month. I've been playing a lot of [CK3](
 
 ### Current focuses
 - My boyfriend and I bought an apartment in Brussels around a year ago. The **renovation** is taking longer than we'd hoped and is an ongoing project.
-- <img src="/site/img/duo_bw.jpg" width="35%" style="float: right; padding: 1em;"/>Currently in my fifth year of **Polish classes**, also my final one. Polish is the only language I'm currently doing any studying of, which is unusual for me. (Suffice to say Duo to my right here is not happy with me at the moment.) I might pick up more again in future, but I first need to get my bearings re:[[now#^c408a8\|mental health]] a bit more.
+- <img src="https://evc60.pcloud.com/dpZNE5ffLZOyBkpjZ5bL7Z7ZMURWc7ZNVZZzN0ZZ21jqS6gY29FwsRaVtJbJmYdIn17y/duo_bw.jpg" width="35%" style="float: right; padding: 1em;"/>Currently in my fifth year of **Polish classes**, also my final one. Polish is the only language I'm currently doing any studying of, which is unusual for me. (Suffice to say Duo to my right here is not happy with me at the moment.) I might pick up more again in future, but I first need to get my bearings re:[[now#^c408a8\|mental health]] a bit more.
 - Taking another look at [**digital gardens**](https://cagrimmett.com/notes/2020/11/08/what-are-digital-gardens/). I've set up a very preliminary version of one of my own here. I think it might be a good way for me to get back in the habit of writing and playing around with coding, things I used to do and really enjoy.
 
 ### In the past month

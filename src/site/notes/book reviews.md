@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book-reviews/"}
+{"dg-publish":true,"permalink":"/book-reviews/","dgShowBacklinks":true}
 ---
 
 # book reviews

@@ -12,3 +12,13 @@ a:hover, a.external-link:hover, a.internal-link:hover {
   background-color: #fff1d8;
   color: black;
 }
+
+a:visited, a.external-link:visited, a.internal-link:visited {
+  text-decoration: underline;
+  text-decoration-color: #ffa500;
+  color: black;
+}
+
+.navbar {
+  background-color: #fff1d8;
+}

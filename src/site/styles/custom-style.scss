@@ -3,7 +3,8 @@ p, ul {
 }
 
 a.external-link, a.internal-link {
-  text-decoration: #ffa500 underline;
+  text-decoration: underline;
+  text-decoration-color: #ffa500;
   color: black;
 }
 

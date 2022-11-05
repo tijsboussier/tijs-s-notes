@@ -3,8 +3,10 @@
 ---
 
 # what i'm doing now
-October edition
-Updated on 4 November 2022
+<div class="ed_note">
+<p>October edition<br />
+Updated on 4 November 2022</p>
+</div>
 
 ## Work
 I work as a policy advisor on educational technology at KU Leuven's Faculty of Arts. My role is more expansive than the job title leads one to assume, however. Next to policy advising I also do a lot of hands-on work at the intersection of education and technology, a sizable chunk of it  tech support for digital education tools.

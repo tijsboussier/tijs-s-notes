@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/book-reviews/"}
 ---
 
-# Book reviews
+# book reviews
 
 ## 2022
 - *[[Bonita Avenue by Peter Buwalda\|Bonita Avenue by Peter Buwalda]]* by Peter Buwalda

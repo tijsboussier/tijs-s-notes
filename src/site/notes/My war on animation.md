@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-war-on-animation/"}
+{"dg-publish":true,"permalink":"/my-war-on-animation/","dgShowBacklinks":true}
 ---
 
 ## [My war on animation](https://www.theverge.com/23191768/animation-accessibility-neurodivergence) by S.E. Smith for The Verge

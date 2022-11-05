@@ -2,12 +2,13 @@ p, ul {
   font-size: 18px;
 }
 
-a.external-link, a.internal-link {
+a, a.external-link, a.internal-link {
   text-decoration: underline;
   text-decoration-color: #ffa500;
   color: black;
 }
 
-a:hover {
+a:hover, a.external-link:hover, a.internal-link:hover {
   background-color: #fff1d8;
+  color: black;
 }

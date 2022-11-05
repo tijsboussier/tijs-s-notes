@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-i-ve-read-in-2020/"}
+{"dg-publish":true,"permalink":"/books-i-ve-read-in-2020/","dgShowBacklinks":true}
 ---
 
 # books i've read

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bonita-avenue-by-peter-buwalda/"}
+{"dg-publish":true,"permalink":"/bonita-avenue-by-peter-buwalda/","dgShowBacklinks":true}
 ---
 
 ## _Bonita Avenue_ by Peter Buwalda

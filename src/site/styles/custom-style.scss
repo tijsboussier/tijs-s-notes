@@ -3,13 +3,16 @@ body {
       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
-    background: white;
-    font-family: Montserrat;
+    .theme-dark {
+        background: white;
+        font-family: Montserrat;
+    }
     
     .content {
        font-size: 14px;
         color: black;
     }
+    
     h1 {
        color: black;
     }

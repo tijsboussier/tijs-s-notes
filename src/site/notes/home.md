@@ -13,4 +13,4 @@
 # Writings
 - Book review: _[[Bonita Avenue by Peter Buwalda\|Bonita Avenue]]_ book review
 - Book review: _[[Gideon the Ninth by Tamsyn Muir\|Gideon the Ninth]]_
-- Online reading: Takeaways from [[My war on animation\|My war on animation]] by S.E. Smith for The Verge
+- Takeaways from [[My war on animation\|My war on animation]] by S.E. Smith for The Verge

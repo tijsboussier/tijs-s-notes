@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gideon-the-ninth-by-tamsyn-muir/"}
+{"dg-publish":true,"permalink":"/gideon-the-ninth-by-tamsyn-muir/","dgShowBacklinks":true}
 ---
 
 ## _Gideon the Ninth_ by Tamsyn Muir

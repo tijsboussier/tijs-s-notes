@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/now/"}
+{"dg-publish":true,"permalink":"/now/","dgShowBacklinks":true}
 ---
 
 # what i'm doing now

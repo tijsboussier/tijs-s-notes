@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/reading/"}
 ---
 
-# Reading
+# reading
 
 ## Books
 - [[books\|Find out]] which books I'm reading and have read this year and in years past.

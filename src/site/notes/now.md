@@ -29,7 +29,7 @@ I've mostly been a homebody in the past month. I've been playing a lot of [CK3](
 - I finished four **books** and started fifth. (More books I read in the past year [[books\|here]].)
 	- I'm currently reading *Moonglow* by Michael Chabon
 	- I finished reading:
-		- *[[Bonita Avenue by Peter Buwalda\|Bonita Avenue by Peter Buwalda]]* by Peter Buwalda
+		- *[[Bonita Avenue by Peter Buwalda\|Bonita Avenue]]* by Peter Buwalda
 		- *[[Gideon the Ninth by Tamsyn Muir\|Gideon the Ninth]]* by Tamsyn Muir
 		- *The Galaxy, and the Ground Within* by Becky Chambers
 		- *Beneath the Sugar Sky* by Seanan McGuire

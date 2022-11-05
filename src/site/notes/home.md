@@ -10,7 +10,7 @@
 ## landing pages
 - [[books\|Books]] that I'm reading or have read 
 - [[book reviews\|Book reviews]] that I've written. Some short, instant thoughts after finishing a book, some longer.
-- [[reading\|Reading page]] with an overview of stuff I read online I think is really worthwile (and why).
+- [[reading recommendations\|Online reads]] that I warmly recommend (and why).
 
 ## recent writings
 - Book review: _[[Bonita Avenue by Peter Buwalda\|Bonita Avenue]]_

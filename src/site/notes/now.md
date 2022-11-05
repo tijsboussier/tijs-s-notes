@@ -4,7 +4,7 @@
 
 # what i'm doing now
 <div class="ed_note">
-<p>October edition. Last updated on 5 November 2022.</p>
+<p>Last updated on 5 November 2022.</p>
 </div>
 
 ## Work
@@ -27,3 +27,5 @@ I've mostly been a homebody in the past month. I've been playing a lot of [CK3](
 	- *[[Gideon the Ninth by Tamsyn Muir\|Gideon the Ninth]]* by Tamsyn Muir
 	- *The Galaxy, and the Ground Within* by Becky Chambers
 	- *Beneath the Sugar Sky* by Seanan McGuire
+
+*Inspired by [Derek Sivers](https://sive.rs/nowff)*

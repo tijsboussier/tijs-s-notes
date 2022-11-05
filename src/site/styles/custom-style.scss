@@ -2,8 +2,13 @@
   font-size: 18px;
 }
 
-a, a:hover, a:visited, a.external-link, a.internal-link {
+a, a:visited, a.external-link, a.internal-link {
   color: #007A72;
+}
+
+a:hover, a.external-link:hover, a.internal-link:hover {
+  color: #007A72;
+  background-color: #E5F1F0;
 }
 
 .navbar h1 {

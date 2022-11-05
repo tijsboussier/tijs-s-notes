@@ -20,13 +20,9 @@ I've mostly been a homebody in the past month. I've been playing a lot of [CK3](
 ### In the past month
 - I went to see Angel Olsen in **concert**. She was wonderful. She's not just a great singer with really great songs, but she's also funny. I loved her banter in between songs.
 - I went on a **day trip** to Charleroi. I can recommend [Livre ou verre](https://livreouverre.be/) , where we started our day, for coffee and/or (francophone) books. The rest of the day was spent checking out the [unnecessary and unfinished tramlines](https://en.wikipedia.org/wiki/Charleroi_Metro) of the city, including an abandoned station.
-- I saw two **movies** in theatre:
-	- *Triangle of Sadness*
-	- *Everything Everywhere All At Once*
-- I finished four **books** and started fifth. (More books I read in the past year [[books\|here]].)
-	- I'm currently reading *Moonglow* by Michael Chabon
-	- I finished reading:
-		- *[[Bonita Avenue by Peter Buwalda\|Bonita Avenue]]* by Peter Buwalda
-		- *[[Gideon the Ninth by Tamsyn Muir\|Gideon the Ninth]]* by Tamsyn Muir
-		- *The Galaxy, and the Ground Within* by Becky Chambers
-		- *Beneath the Sugar Sky* by Seanan McGuire
+- I saw two **movies** in theatre: *Triangle of Sadness* and *Everything Everywhere All At Once*.
+- I finished four **books** and started reading *Moonglow* by Michael Chabon. These are the books I finished:
+	- *[[Bonita Avenue by Peter Buwalda\|Bonita Avenue]]* by Peter Buwalda
+	- *[[Gideon the Ninth by Tamsyn Muir\|Gideon the Ninth]]* by Tamsyn Muir
+	- *The Galaxy, and the Ground Within* by Becky Chambers
+	- *Beneath the Sugar Sky* by Seanan McGuire

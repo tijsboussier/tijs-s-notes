@@ -4,8 +4,7 @@
 
 # what i'm doing now
 <div class="ed_note">
-<p>October edition<br />
-Updated on 4 November 2022</p>
+<p>October edition. Last updated on 5 November 2022.</p>
 </div>
 
 ## Work

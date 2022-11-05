@@ -10,11 +10,11 @@ Updated on 4 November 2022
 I work as a policy advisor on educational technology at KU Leuven's Faculty of Arts. My role is more expansive than the job title leads one to assume, however. Next to policy advising I also do a lot of hands-on work at the intersection of education and technology, a sizable chunk of it  tech support for digital education tools.
 
 ## Home
-I've mostly been a homebody in the past month. I've been playing a lot of [CK3](https://en.wikipedia.org/wiki/Crusader_Kings_III) and have been slowly trying to get back into cooking after a summer in which I did very little of it due to a hit to my mental health. And regarding that: Healing isn't a straight line, but I'm in therapy and making progress. ^c408a8
+I've mostly been a homebody in the past month. I've been playing a lot of [CK3](https://en.wikipedia.org/wiki/Crusader_Kings_III) and have been slowly trying to get back into cooking after a summer in which I did very little of it due to a hit to my mental health. And regarding that: Healing isn't a straight line, but I'm in therapy and making progress.
 
 ### Current focuses
 - My boyfriend and I bought an apartment in Brussels around a year ago. The **renovation** is taking longer than we'd hoped and is an ongoing project.
-- <img src="https://evc60.pcloud.com/dpZNE5ffLZOyBkpjZ5bL7Z7ZMURWc7ZNVZZzN0ZZ21jqS6gY29FwsRaVtJbJmYdIn17y/duo_bw.jpg" width="35%" style="float: right; padding: 1em;"/>Currently in my fifth year of **Polish classes**, also my final one. Polish is the only language I'm currently doing any studying of, which is unusual for me. (Suffice to say Duo to my right here is not happy with me at the moment.) I might pick up more again in future, but I first need to get my bearings re:[[now#^c408a8\|mental health]] a bit more.
+- <img src="https://evc60.pcloud.com/dpZNE5ffLZOyBkpjZ5bL7Z7ZMURWc7ZNVZZzN0ZZ21jqS6gY29FwsRaVtJbJmYdIn17y/duo_bw.jpg" width="35%" style="float: right; padding: 1em;"/>Currently in my fifth year of **Polish classes**, also my final one. Polish is the only language I'm currently doing any studying of, which is unusual for me. (Suffice to say Duo to my right here is not happy with me at the moment.) I might pick up more again in future, but I first need to get my bearings re:mental health a bit more.
 - Taking another look at [**digital gardens**](https://cagrimmett.com/notes/2020/11/08/what-are-digital-gardens/). I've set up a very preliminary version of one of my own here. I think it might be a good way for me to get back in the habit of writing and playing around with coding, things I used to do and really enjoy.
 
 ### In the past month

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/"}
+{"dg-publish":true,"permalink":"/books/","dgShowBacklinks":true}
 ---
 
 # books

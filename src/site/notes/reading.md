@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/"}
+{"dg-publish":true,"permalink":"/reading/","dgShowBacklinks":true}
 ---
 
 # reading

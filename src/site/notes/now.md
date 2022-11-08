@@ -20,8 +20,7 @@
 - I saw two **movies** in theatre: *Triangle of Sadness* and *Everything Everywhere All At Once*.
 
 ## Books
-**Currently reading**
-*Moonglow* by Michael Chabon
+**Currently reading**: *Moonglow* by Michael Chabon
 
 **Read in the past month**:
 Click links for reviews. [[book reviews\|All reviews here]].

@@ -14,4 +14,4 @@ I work as an expert on educational technology at KU Leuven's Faculty of Arts. I 
 But I'm not here to talk about work. This website is a personal project. There's a lot of things that I'm interested in and love. Sometimes I write about them. I'm collecting that writing here.
 ## More about me
 - [[writing journey\|My writing journey]]
-- [[about this website\|My digital playground]]
+- [[about this website\|My digital playground]] (coming soon)

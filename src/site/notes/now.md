@@ -20,11 +20,13 @@
 - I saw two **movies** in theatre: *Triangle of Sadness* and *Everything Everywhere All At Once*.
 
 ## Books
-- **Currently reading**: *Moonglow* by Michael Chabon
-- **Read in the past month**:
-	Click links for reviews. [[book reviews\|All reviews here]].
-	- *[[Bonita Avenue by Peter Buwalda\|Bonita Avenue]]* by Peter Buwalda
-	- *[[Gideon the Ninth by Tamsyn Muir\|Gideon the Ninth]]* by Tamsyn Muir
-	- *The Galaxy, and the Ground Within* by Becky Chambers
-	- *Beneath the Sugar Sky* by Seanan McGuire
+**Currently reading**
+*Moonglow* by Michael Chabon
+
+**Read in the past month**:
+Click links for reviews. [[book reviews\|All reviews here]].
+- *[[Bonita Avenue by Peter Buwalda\|Bonita Avenue]]* by Peter Buwalda
+- *[[Gideon the Ninth by Tamsyn Muir\|Gideon the Ninth]]* by Tamsyn Muir
+- *The Galaxy, and the Ground Within* by Becky Chambers
+- *Beneath the Sugar Sky* by Seanan McGuire
 

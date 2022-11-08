@@ -25,12 +25,10 @@ p.introduction {
   font-style: italic;
 }
 
-a.button,div.container{
- float:left;
-}
 a.button{
- background-color:#cc0000;
- border:1px solid #660000;
+ text-decoration: none;
+ background-color:#007a72;
+ border:none;
  border-radius:5px;
  color:#fff;
  margin-right:10px;

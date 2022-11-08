@@ -4,7 +4,7 @@
 
 
 # My writing journey
-<div style="width: 25%; float: left; margin: 1em 2em 0 2em;">
+<div style="width: 24%; float: left; margin: 1em 2em 0 2em;">
 <p><img src="https://filedn.eu/lk3agvt89YPVfVtjPtpWrdX/writing.jpg" alt="pen and paper. easier to draw than a computer screen and keyboard." /></p>
 </div>
 I've always enjoyed writing. I've done it for as long as I can remember. And I've loved the world wide web since I first started using it, at the local library that I used to bike to about twice a week just to get online.
@@ -21,7 +21,7 @@ Then a Russian company bought Livejournal and made some unpopular changes. Peopl
 
 I didn't stop writing after that, but the writing I have done since has been very intermittent (as it was already in my Tumblr days) and saved only as personal notes. But for as long as that has been the case, however, I've longed to get back into the habit of publishing part of what I write online. A desire for perfection, for at least a facade of professionalism, held me back. I came up with ambitious plans, but meanwhile never got beyond writing the about-section and failing to even deliver a version of that that I considered worthy. Basically, I lost track of what had made writing fun for me.
 
-<div style="width: 17%; float: right; margin: 0 2em;">
+<div style="width: 16%; float: right; margin: 0 2em;">
 <p><img src="https://filedn.eu/lk3agvt89YPVfVtjPtpWrdX/plant.jpg" alt="young plant drawing" /></p>
 </div>
 

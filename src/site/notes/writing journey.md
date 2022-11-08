@@ -5,7 +5,7 @@
 
 # My writing journey
 <div style="width: 25%; float: left; margin: 1em 2em 0 2em;">
-<p><img src="C:\Users\u0062393\Downloads\writing.jpg" alt="pen and paper. easier to draw than a computer screen and keyboard." /></p>
+<p><img src="https://filedn.eu/lk3agvt89YPVfVtjPtpWrdX/writing.jpg" alt="pen and paper. easier to draw than a computer screen and keyboard." /></p>
 </div>
 I've always enjoyed writing. I've done it for as long as I can remember. And I've loved the world wide web since I first started using it, at the local library that I used to bike to about twice a week just to get online.
 
@@ -22,7 +22,7 @@ Then a Russian company bought Livejournal and made some unpopular changes. Peopl
 I didn't stop writing after that, but the writing I have done since has been very intermittent (as it was already in my Tumblr days) and saved only as personal notes. But for as long as that has been the case, however, I've longed to get back into the habit of publishing part of what I write online. A desire for perfection, for at least a facade of professionalism, held me back. I came up with ambitious plans, but meanwhile never got beyond writing the about-section and failing to even deliver a version of that that I considered worthy. Basically, I lost track of what had made writing fun for me.
 
 <div style="width: 17%; float: right; margin: 0 2em;">
-<p><img src="C:\Users\u0062393\Downloads\plant.jpg" alt="young plant drawing" /></p>
+<p><img src="https://filedn.eu/lk3agvt89YPVfVtjPtpWrdX/plant.jpg" alt="young plant drawing" /></p>
 </div>
 
 I left things as they were, not knowing how to get out of that loop. And then about a year ago I happened upon the concept of a digital garden. I don't remember how I encountered it or which digital garden I first visited, but I remember [Maggie Appleton](https://maggieappleton.com/)s and [Tom Critchlow](https://tomcritchlow.com/wiki/)'s to have been among the first. A seed (pardon the pun) was planted.

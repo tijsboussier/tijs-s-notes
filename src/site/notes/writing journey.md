@@ -29,7 +29,7 @@ I left things as they were, not knowing how to get out of that loop. And then ab
 
 As to what a digital garden is, let me leave it up to Chuck Grimmett to [explain the basics](https://cagrimmett.com/notes/2020/11/08/what-are-digital-gardens/). MIT Technology Review also has a nice write-up [over here](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/). And Maggie Appleton wrote a short [history of the digital garden](https://maggieappleton.com/garden-history). Great read if you're interested.
 
-As to what I plan to do with mine, I explain all of that [[about this website\|here]].
+As to what I plan to do with mine, I explain all of that [[about this website\|here]] (coming soon).
 
 [^1]: I still did my research, but on Blogger and Wordpress I put the bar so high for myself - I really wanted to come across as an expert of sorts on whatever I wrote about - that I didn't really get much writing done at all. On LJ I learned to leave well enough alone.
 [^2]: Full disclosure: of *course* I enjoyed positive feedback and got frustrated with the odd negative comment. After all I'm only human. But it didn't stop me in my tracks like it would have before.

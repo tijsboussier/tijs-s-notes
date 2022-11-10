@@ -13,7 +13,7 @@ module.exports = async() => {
         theme: process.env.THEME,
         themeStyle: themeStyle,
         baseTheme: process.env.BASE_THEME || "dark",
-        siteName: process.env.SITE_NAME_HEADER || "Digital Garden",
+        siteName: process.env.SITE_NAME_HEADER || "tijsboussier.eu",
     };
 
     return meta;

@@ -4,6 +4,7 @@
 
 # online public spaces
 <p style="border-bottom: 1px solid #ececec; padding-bottom: 1em;">This is a list of online public spaces that I have or once had an account on. They are all websites and apps that I use/used to use to share some of my life on with the wider world. Limited (mostly) to services I was an active user of at some point. Non-exhaustive; going by memory. Presented alphabetically.</p>
+
 **Blogger** <span style="font-size: 1.4em;">†</span>
   First blog. Content is fully deleted (as far as I can tell). For a long time couldn't delete my Blogger profile itself, but checked while writing this and Google allows you to do this now.
 

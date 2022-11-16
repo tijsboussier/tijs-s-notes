@@ -3,7 +3,7 @@
 ---
 
 # what is this place?
-<div style="background-color: #B5D6D6; padding: 5px; border-radius: 10px;"><p style="padding: 5px;">I'm on version 4 of trying to explain what this website is. This is the best version so far.</p></div>
+<div style="background-color: #B5D6D6; padding: 5px; border-radius: 10px;"><p style="padding: 5px; margin: 5px;">I'm on version 4 of trying to explain what this website is. This is the best version so far.</p></div>
 
 <p class="introduction">This is my digital garden. I call it that because digital gardens are what this website was inspired by, but 'personal playground' might be a better description. For now it's a collection of various of my writings (long-form, notes, lists ...) both new and old, but it's meant to be a living, breathing thing. Not because I'm still figuring out what I want to use this website for, but because figuring that out as I go along is the entire idea. If there's a concept, that's the one: exploration and experimentation; process, not product.</p>
 

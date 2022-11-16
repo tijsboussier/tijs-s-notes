@@ -1,3 +1,8 @@
+ .navbar {
+  max-width: 800px;
+  margin: auto;
+}
+   
 .content {
   font-size: 16px;
   font-family: "Open Sans", system-ui, sans-serif;
@@ -15,7 +20,7 @@ a:hover, a.external-link:hover, a.internal-link:hover {
 .navbar h1 {
   color: #007A72;
   font-family: "Open Sans", system-ui, sans-serif;
-  font-size: 24px;
+  font-size: 16px;
 }
 
 .content h1 {

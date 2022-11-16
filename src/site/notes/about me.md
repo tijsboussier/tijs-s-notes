@@ -16,7 +16,7 @@ But I'm not here to talk about work.
 ###### personal project
 I like to write, and I like to mess around with code. For a couple of years I've only been doing that behind lock and key. 
 - It wasn't always like that. My [[writing journey\|writing journey]].
-- Now I'm once again creating a public space for it. [[manifesto (old)\|More on that here.]]
+- Now I'm once again creating a public space for it. [[manifesto\|More on that here.]]
 
 My private life will seep through everything I do on here. For a quick rundown of the kinds of things that occupy my time, there is the [[now\|now page]] (coming soon).
 

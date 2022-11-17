@@ -1,5 +1,9 @@
 html {
-  overflow-y: auto;
+  overflow-y: scroll;
+}
+
+body::-webkit-scrollbar {
+  display: none;
 }
 
 .navbar {

@@ -58,15 +58,14 @@ a.button{
 
 .backlinks {
   background-color: #ececec;
+  font-family: "Arial", system-ui, sans-serif;
 }
 
 .backlink-card {
- font-family: "Arial", system-ui, sans-serif;
  font-size: 16px;
 }
 
-h6.backlink-title {
- font-family: "Arial", system-ui, sans-serif;
+.backlink-title, h6.backlink-title {
  font-size: 14px;
  font-weight: 200;
 }
@@ -74,6 +73,8 @@ h6.backlink-title {
 .footnote-item {
  padding-top: 0;
  margin-top: 0;
+ padding-bottom: 0;
+ margin-bottom: 0;
 }
 
 .date {

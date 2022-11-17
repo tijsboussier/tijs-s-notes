@@ -59,10 +59,11 @@ a.button{
 .backlinks {
   background-color: #ececec;
   font-family: "Arial", system-ui, sans-serif;
+  font-size: 14px !important;
 }
 
 .backlink-card {
- font-size: 16px;
+ font-size: 16px !important;
 }
 
 .backlink-title, h6.backlink-title {

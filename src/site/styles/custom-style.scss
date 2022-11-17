@@ -1,5 +1,6 @@
-body {
-  overflow-x: auto;
+body, html {
+  overflow: auto;
+  overflow: initial;
 }
 
 .navbar {

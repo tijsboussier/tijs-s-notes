@@ -11,16 +11,16 @@
 }
 
 a, a:visited, a.external-link, a.internal-link {
-  color: #FF4000;
+  color: #3066BE;
 }
 
 a:hover, a.external-link:hover, a.internal-link:hover {
-  color: #FF4000;
-  background-color: #FEEFDD;
+  color: #3066BE;
+  background-color: #B4C5E4;
 }
 
 .navbar h1 {
-  color: #FF4000;
+  color: #3066BE;
   font-family: "Arial", system-ui, sans-serif;
   font-size: 18px;
   max-width: 840px;
@@ -35,10 +35,6 @@ a:hover, a.external-link:hover, a.internal-link:hover {
 
 .content p {
  text-align: justify;
-}
-
-.ed_note p {
-  margin-top: -10px;
 }
 
 p.introduction {

@@ -1,4 +1,8 @@
- .navbar {
+html {
+  overflow-y: scroll;
+}
+
+.navbar {
   position: fixed;
   padding: 1rem 0;
 }

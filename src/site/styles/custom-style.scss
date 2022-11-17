@@ -67,7 +67,7 @@ a.button{
  font-weight: 200;
 }
 
-.backlink-card a:hover {
+.backlink-card a:hover, .backlink-card a.external-link:hover, .backlink-card a.internal-link:hover {
  background-color: none;
 }
 

@@ -8,7 +8,6 @@
   font-family: "Arial", system-ui, sans-serif;
   color: #201e1f;
   margin-top: 25px;
-  position: relative;
 }
 
 a, a:visited, a.external-link, a.internal-link {
@@ -84,4 +83,8 @@ li.footnote-item {
  font-size: 13px;
  margin-top: -0.5rem;
  color: #716f70;
+}
+
+.sidebar-container {
+ padding-right: 0;
 }

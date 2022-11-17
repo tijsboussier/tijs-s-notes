@@ -60,9 +60,15 @@ a.button{
   background-color: #ececec;
 }
 
-.backlink-title, .backlink-card {
+.backlink-card {
  font-family: "Arial", system-ui, sans-serif;
  font-size: 16px;
+}
+
+.backlink-title {
+ font-family: "Arial", system-ui, sans-serif;
+ font-size: 14px;
+ font-weight: 200;
 }
 
 .footnote-item {

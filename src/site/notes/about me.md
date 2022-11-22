@@ -18,6 +18,6 @@ I like to write, and I like to mess around with code. For a couple of years I've
 - It wasn't always like that. My [[writing journey\|writing journey]].
 - Now I'm once again creating a public space for it. [[manifesto\|More on that here.]]
 
-My private life will seep through everything I do on here. For a quick rundown of the kinds of things that occupy my time, there is the [[now\|now page]] (coming soon).
+My private life will seep through everything I do on here. For a quick rundown of the kinds of things that occupy my time, there is the [[now\|now page]].
 
 A sizable chunk of my life I've spent online. Part of this website will be making inventory of that. For instance: these are the online [[online public spaces\|public spaces]] I'm using or have used.

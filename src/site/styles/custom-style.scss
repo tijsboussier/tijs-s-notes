@@ -1,12 +1,13 @@
 body, html {
   overflow: auto;
   overflow: initial;
+  background-color: #fff4e6;
 }
 
 .navbar {
   position: fixed;
   padding: 1rem 0;
-  background-color: #008080;
+  background-color: #b5c8ad;
   height: 3rem;
 }
    
@@ -27,7 +28,7 @@ a, a:visited, a.external-link, a.internal-link {
 }
 
 .navbar h1 {
-  color: #fff;
+  color: #242f1f;
   font-family: "Arial", system-ui, sans-serif;
   font-size: 18px;
   text-decoration: underline 1px;

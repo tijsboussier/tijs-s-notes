@@ -6,7 +6,7 @@ body, html {
 .navbar {
   position: fixed;
   padding: 1rem 0;
-  background-color: #b5c8ad;
+  background-color: #008080;
   height: 3rem;
 }
    
@@ -18,7 +18,7 @@ body, html {
 }
 
 a, a:visited, a.external-link, a.internal-link {
-  color: #748d69;
+  color: #008080;
 }
 
 .content a:hover {
@@ -27,7 +27,7 @@ a, a:visited, a.external-link, a.internal-link {
 }
 
 .navbar h1 {
-  color: #242f1f;
+  color: #fff;
   font-family: "Arial", system-ui, sans-serif;
   font-size: 18px;
   text-decoration: underline 1px;

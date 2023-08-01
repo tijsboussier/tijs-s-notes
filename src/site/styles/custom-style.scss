@@ -12,7 +12,7 @@ body, html {
    
 .content {
   font-size: 16px;
-  font-family: "Avenir", system-ui, sans-serif;
+  font-family: sans-serif, system-ui;
   color: #201e1f;
   margin-top: 3rem;
 }
@@ -29,7 +29,7 @@ a, a:visited, a.external-link, a.internal-link {
 
 .navbar h1 {
   color: #fff;
-  font-family: "Courier", system-ui, sans-serif;
+  font-family: sans-serif, system-ui;
   font-size: 18px;
   text-decoration: underline 1px;
   max-width: 840px;
@@ -38,7 +38,7 @@ a, a:visited, a.external-link, a.internal-link {
 }
 
 .content h1 {
-  font-family: "Courier", system-ui, sans-serif;
+  font-family: sans-serif, system-ui;
   font-size: 1.8em;
 }
 
@@ -63,7 +63,7 @@ a.button{
 
 .backlinks {
   background-color: #dfdfdf;
-  font-family: "Avenir", system-ui, sans-serif;
+  font-family: sans-serif, system-ui;
   font-size: 14px !important;
   padding-right: 30px;
   margin-right: -10px;

@@ -6,8 +6,9 @@ body, html {
 .navbar {
   position: fixed;
   padding: 1rem 0;
-  background-color: #559E55;
   height: 3rem;
+  background: rgb(255,255,255);
+  background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(85,158,85,1) 100%);
 }
    
 .content {
